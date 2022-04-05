@@ -1,9 +1,9 @@
 class Main {
   public static void main(String[] args) {
     int s=1;
-    int a=3;
+    int a=4;
     for(int i=5;i!=1;i--){
-      for(int k=3;k!=a;k--) System.out.print(" ");
+      for(int k=1;k!=a;k++) System.out.print(" ");
        
        for(int l=0;l!=s;l++) System.out.print("*");
       
